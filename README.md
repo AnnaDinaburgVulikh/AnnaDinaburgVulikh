@@ -5,7 +5,7 @@
 ## 📖 About me
 * 💻 I'm a Software Engineer.
 * 🎓 I have a M.sc in Industrial and Management engineer since 2007 (major in Information Systems)
-* 🔭 I’m currently working in the IDF.
+* 🔭 I’m currently working at AQUA Security.
 * 🌱 I'm always learning more about programing and technologies.
 * ✍️ In my free time, I contribute to [ROSE](https://github.com/RedHat-Israel/ROSE) project by RedHat  
   & volunteer as a python coordinator in [She Codes;](https://she-codes.org/) (An organization for promoting women in programming).
