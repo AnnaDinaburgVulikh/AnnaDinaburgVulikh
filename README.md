@@ -18,12 +18,15 @@
 ### My top programing skills
 
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Groovy](https://img.shields.io/badge/-Groovy%20-05122A?style=flat&logo=Apache+Groovy&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins%20-05122A?style=flat&logo=jenkins&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown%20-05122A?style=flat&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git%20-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub%20-05122A?style=flat&logo=github)&nbsp;
 
 ### Also
 
+![PostgreSQL](https://img.shields.io/badge/-postgres%20-05122A?style=flat&logo=postgresql)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=C-sharp&logoColor=00599C)&nbsp;
@@ -33,7 +36,6 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm%20-05122A?style=flat&logo=pycharm&logoColor=2C2255)\
 ![Linux](https://img.shields.io/badge/-Linux%20-05122A?style=flat&logo=linux)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker%20-05122A?style=flat&logo=docker)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-postgres%20-05122A?style=flat&logo=postgresql)&nbsp;
 <!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
 
